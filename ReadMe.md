@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estou estudando para ser um Dev FullStack <br>🎓 Sistemas de informação - UNITAU<br>🤝 Estou em busca de estágio.<br>🔰 Viciado em automobilismo
+🔭 Estou estudando para ser um Dev FullStack <br>🎓 Sistemas de informação - UNITAU<br>🤝 Em busca de estágio.<br>🔰 Viciado em automobilismo
 
 
 ## 🌐 Socials:
